@@ -1,0 +1,25 @@
+# Build directories
+[Bb]uild/
+x64/
+Debug/
+Release/
+
+# Compiled files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.tlog
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.VC.db
+*.sdf
+
+# Backup/temporary files
+*.bak
+*.tmp
